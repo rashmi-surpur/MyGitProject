@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hi msg from Main");
-            Console.WriteLine("Hi msg from Main 1.1");
+            
             Console.ReadLine();
         }
     }
